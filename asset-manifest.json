@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37814910.css",
+    "main.js": "/static/js/main.1570022f.js",
+    "static/media/banteng.png": "/static/media/banteng.59575499a25262433ff7.png",
+    "index.html": "/index.html",
+    "main.37814910.css.map": "/static/css/main.37814910.css.map",
+    "main.1570022f.js.map": "/static/js/main.1570022f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37814910.css",
+    "static/js/main.1570022f.js"
+  ]
+}
