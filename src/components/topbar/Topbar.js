@@ -7,7 +7,7 @@ export default function Topbar() {
         <div className='topbar'>
             <div className='topbarWrapper'>
                 <div className='topLeft'>
-                    <span className='logo'>CEISA 4.0</span>
+                    <span className='logo'>KULI DEV V.0</span>
                 </div>
                 <div className='topRight'>
                     <div className='topbarIconContainer'>
