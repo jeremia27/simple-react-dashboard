@@ -1,0 +1,22 @@
+.transaction{
+    flex: 4;
+    padding: 20px;
+}
+
+.transactionTop{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+}
+
+.transactionTopLeft, .transactionTopRight{
+    flex: 1;
+}
+
+.transactionBottom{
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
